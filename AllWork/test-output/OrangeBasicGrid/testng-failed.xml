@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeBasicGrid]">
+  <parameter name="Browser" value="chrome"/>
+  <test name="OnChrome">
+    <classes>
+      <class name="com.Grid.OrangeSir"/>
+    </classes>
+  </test> <!-- OnChrome -->
+</suite> <!-- Failed suite [OrangeBasicGrid] -->

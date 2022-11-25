@@ -1,0 +1,15 @@
+
+<suite name="RamsTesting">
+	<test name="TestNGExample1">
+		<classes>
+			<class name="com.TestNG.reddifInherit"/>
+		</classes>
+	</test>
+
+<test name="RadioButtonInheritance">
+		<classes>
+			<class name="com.TestNG.RadioButtonInheritance"/>
+		</classes>
+	</test>
+
+</suite>

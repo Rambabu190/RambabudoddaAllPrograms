@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RamsTesting]">
+  <test name="TestNGExample1">
+    <classes>
+      <class name="com.TestNG.reddifInherit"/>
+    </classes>
+  </test> <!-- TestNGExample1 -->
+  <test name="RadioButtonInheritance">
+    <classes>
+      <class name="com.TestNG.RadioButtonInheritance"/>
+    </classes>
+  </test> <!-- RadioButtonInheritance -->
+</suite> <!-- Failed suite [RamsTesting] -->

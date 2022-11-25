@@ -1,0 +1,7 @@
+<suite name="OrangeBasic">
+	<test name="OrangeBasicGrid">
+		<classes>
+			<class name="com.Grid.OrangeBasicGrid"/>
+		</classes>
+	</test>
+</suite>

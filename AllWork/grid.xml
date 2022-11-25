@@ -1,0 +1,14 @@
+<suite name="OrangeBasicGrid">
+	<test name="OnChrome">
+		<parameter name="Browser" value="chrome"/>
+			<classes>
+				<class name="com.Grid.OrangeSir"/>
+			</classes>
+	</test>
+	<test name="OnFirefox">
+		<parameter name="Browser" value="firefox"/>
+			<classes>
+				<class name="com.Grid.OrangeSir"/>
+			</classes>
+	</test>
+</suite>

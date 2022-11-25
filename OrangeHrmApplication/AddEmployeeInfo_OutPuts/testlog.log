@@ -1,0 +1,223 @@
+2022-11-18 23:04:39,021 - com.OHRMTestCases.AddEmployee -INFO - Loging Home Page Successfully
+2022-11-18 23:04:42,116 - com.OHRMTestCases.AddEmployee -INFO - entering AddEmployee Page Successfully
+2022-11-18 23:04:45,763 - com.OHRMTestCases.AddEmployee -INFO - enter1row Data Successfully
+2022-11-18 23:04:47,912 - com.OHRMTestCases.AddEmployee -INFO - enter1row Data Successfully
+2022-11-18 23:04:50,067 - com.OHRMTestCases.AddEmployee -INFO - enter1row Data Successfully
+2022-11-18 23:04:50,149 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:04:52,676 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:04:52,732 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:04:52,793 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:04:52,860 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:04:52,863 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:04:52,863 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:04:52,865 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:04:52,866 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in1Row And send to excel Sheet Successfull
+2022-11-18 23:04:53,751 - com.OHRMTestCases.AddEmployee -INFO - 1  -Row details entered successfull
+2022-11-18 23:04:57,865 - com.OHRMTestCases.AddEmployee -INFO - enter2row Data Successfully
+2022-11-18 23:04:59,979 - com.OHRMTestCases.AddEmployee -INFO - enter2row Data Successfully
+2022-11-18 23:05:02,133 - com.OHRMTestCases.AddEmployee -INFO - enter2row Data Successfully
+2022-11-18 23:05:02,180 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:05:04,571 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:05:04,639 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:05:04,687 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:05:04,737 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:05:04,737 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:05:04,737 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:05:04,737 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:05:04,747 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in2Row And send to excel Sheet Successfull
+2022-11-18 23:05:05,461 - com.OHRMTestCases.AddEmployee -INFO - 2  -Row details entered successfull
+2022-11-18 23:05:09,616 - com.OHRMTestCases.AddEmployee -INFO - enter3row Data Successfully
+2022-11-18 23:05:11,750 - com.OHRMTestCases.AddEmployee -INFO - enter3row Data Successfully
+2022-11-18 23:05:13,906 - com.OHRMTestCases.AddEmployee -INFO - enter3row Data Successfully
+2022-11-18 23:05:13,966 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:05:16,398 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:05:16,447 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:05:16,507 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:05:16,554 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:05:16,554 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:05:16,554 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:05:16,554 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:05:16,562 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in3Row And send to excel Sheet Successfull
+2022-11-18 23:05:17,331 - com.OHRMTestCases.AddEmployee -INFO - 3  -Row details entered successfull
+2022-11-18 23:05:21,489 - com.OHRMTestCases.AddEmployee -INFO - enter4row Data Successfully
+2022-11-18 23:05:23,649 - com.OHRMTestCases.AddEmployee -INFO - enter4row Data Successfully
+2022-11-18 23:05:25,820 - com.OHRMTestCases.AddEmployee -INFO - enter4row Data Successfully
+2022-11-18 23:05:25,869 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:05:28,135 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:05:28,183 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:05:28,241 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:05:28,303 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:05:28,304 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:05:28,304 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:05:28,304 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:05:28,306 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in4Row And send to excel Sheet Successfull
+2022-11-18 23:05:29,106 - com.OHRMTestCases.AddEmployee -INFO - 4  -Row details entered successfull
+2022-11-18 23:05:33,252 - com.OHRMTestCases.AddEmployee -INFO - enter5row Data Successfully
+2022-11-18 23:05:35,395 - com.OHRMTestCases.AddEmployee -INFO - enter5row Data Successfully
+2022-11-18 23:05:37,511 - com.OHRMTestCases.AddEmployee -INFO - enter5row Data Successfully
+2022-11-18 23:05:37,548 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:05:39,789 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:05:39,837 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:05:39,902 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:05:39,946 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:05:39,946 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:05:39,946 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:05:39,946 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:05:39,955 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in5Row And send to excel Sheet Successfull
+2022-11-18 23:05:40,773 - com.OHRMTestCases.AddEmployee -INFO - 5  -Row details entered successfull
+2022-11-18 23:05:44,929 - com.OHRMTestCases.AddEmployee -INFO - enter6row Data Successfully
+2022-11-18 23:05:47,078 - com.OHRMTestCases.AddEmployee -INFO - enter6row Data Successfully
+2022-11-18 23:05:49,196 - com.OHRMTestCases.AddEmployee -INFO - enter6row Data Successfully
+2022-11-18 23:05:49,261 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:05:53,200 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:05:53,260 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:05:53,308 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:05:53,369 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:05:53,369 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:05:53,369 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:05:53,369 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:05:53,369 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in6Row And send to excel Sheet Successfull
+2022-11-18 23:05:54,062 - com.OHRMTestCases.AddEmployee -INFO - 6  -Row details entered successfull
+2022-11-18 23:05:58,226 - com.OHRMTestCases.AddEmployee -INFO - enter7row Data Successfully
+2022-11-18 23:06:00,377 - com.OHRMTestCases.AddEmployee -INFO - enter7row Data Successfully
+2022-11-18 23:06:02,538 - com.OHRMTestCases.AddEmployee -INFO - enter7row Data Successfully
+2022-11-18 23:06:02,583 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:06:04,971 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:06:05,024 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:06:05,070 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:06:05,109 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:06:05,109 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:06:05,114 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:06:05,114 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:06:05,115 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in7Row And send to excel Sheet Successfull
+2022-11-18 23:06:06,003 - com.OHRMTestCases.AddEmployee -INFO - 7  -Row details entered successfull
+2022-11-18 23:06:10,124 - com.OHRMTestCases.AddEmployee -INFO - enter8row Data Successfully
+2022-11-18 23:06:12,267 - com.OHRMTestCases.AddEmployee -INFO - enter8row Data Successfully
+2022-11-18 23:06:14,423 - com.OHRMTestCases.AddEmployee -INFO - enter8row Data Successfully
+2022-11-18 23:06:14,473 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:06:16,413 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:06:16,463 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:06:16,518 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:06:16,550 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:06:16,550 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:06:16,550 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:06:16,550 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:06:16,550 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in8Row And send to excel Sheet Successfull
+2022-11-18 23:06:17,274 - com.OHRMTestCases.AddEmployee -INFO - 8  -Row details entered successfull
+2022-11-18 23:06:21,428 - com.OHRMTestCases.AddEmployee -INFO - enter9row Data Successfully
+2022-11-18 23:06:23,578 - com.OHRMTestCases.AddEmployee -INFO - enter9row Data Successfully
+2022-11-18 23:06:25,712 - com.OHRMTestCases.AddEmployee -INFO - enter9row Data Successfully
+2022-11-18 23:06:25,768 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:06:27,703 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:06:27,751 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:06:27,779 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:06:27,833 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:06:27,833 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:06:27,833 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:06:27,833 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:06:27,841 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in9Row And send to excel Sheet Successfull
+2022-11-18 23:06:28,623 - com.OHRMTestCases.AddEmployee -INFO - 9  -Row details entered successfull
+2022-11-18 23:06:32,786 - com.OHRMTestCases.AddEmployee -INFO - enter10row Data Successfully
+2022-11-18 23:06:34,925 - com.OHRMTestCases.AddEmployee -INFO - enter10row Data Successfully
+2022-11-18 23:06:37,081 - com.OHRMTestCases.AddEmployee -INFO - enter10row Data Successfully
+2022-11-18 23:06:37,131 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:06:39,349 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:06:39,398 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:06:39,436 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:06:39,492 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:06:39,493 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:06:39,493 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:06:39,494 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:06:39,495 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in10Row And send to excel Sheet Successfull
+2022-11-18 23:06:40,214 - com.OHRMTestCases.AddEmployee -INFO - 10  -Row details entered successfull
+2022-11-18 23:06:44,396 - com.OHRMTestCases.AddEmployee -INFO - enter11row Data Successfully
+2022-11-18 23:06:46,540 - com.OHRMTestCases.AddEmployee -INFO - enter11row Data Successfully
+2022-11-18 23:06:48,679 - com.OHRMTestCases.AddEmployee -INFO - enter11row Data Successfully
+2022-11-18 23:06:48,724 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:06:51,269 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:06:51,334 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:06:51,393 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:06:51,433 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:06:51,433 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:06:51,433 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:06:51,433 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:06:51,433 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in11Row And send to excel Sheet Successfull
+2022-11-18 23:06:52,291 - com.OHRMTestCases.AddEmployee -INFO - 11  -Row details entered successfull
+2022-11-18 23:06:56,474 - com.OHRMTestCases.AddEmployee -INFO - enter12row Data Successfully
+2022-11-18 23:06:58,611 - com.OHRMTestCases.AddEmployee -INFO - enter12row Data Successfully
+2022-11-18 23:07:00,724 - com.OHRMTestCases.AddEmployee -INFO - enter12row Data Successfully
+2022-11-18 23:07:00,782 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:07:03,078 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:07:03,134 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:07:03,183 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:07:03,233 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:07:03,233 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:07:03,233 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:07:03,233 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:07:03,233 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in12Row And send to excel Sheet Successfull
+2022-11-18 23:07:04,062 - com.OHRMTestCases.AddEmployee -INFO - 12  -Row details entered successfull
+2022-11-18 23:07:08,237 - com.OHRMTestCases.AddEmployee -INFO - enter13row Data Successfully
+2022-11-18 23:07:10,396 - com.OHRMTestCases.AddEmployee -INFO - enter13row Data Successfully
+2022-11-18 23:07:12,541 - com.OHRMTestCases.AddEmployee -INFO - enter13row Data Successfully
+2022-11-18 23:07:12,597 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:07:14,805 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:07:14,865 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:07:14,914 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:07:14,948 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:07:14,948 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:07:14,948 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:07:14,948 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:07:14,948 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in13Row And send to excel Sheet Successfull
+2022-11-18 23:07:15,718 - com.OHRMTestCases.AddEmployee -INFO - 13  -Row details entered successfull
+2022-11-18 23:07:19,881 - com.OHRMTestCases.AddEmployee -INFO - enter14row Data Successfully
+2022-11-18 23:07:22,036 - com.OHRMTestCases.AddEmployee -INFO - enter14row Data Successfully
+2022-11-18 23:07:24,175 - com.OHRMTestCases.AddEmployee -INFO - enter14row Data Successfully
+2022-11-18 23:07:24,231 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:07:26,702 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:07:26,743 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:07:26,780 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:07:26,824 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:07:26,827 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:07:26,827 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:07:26,827 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:07:26,827 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in14Row And send to excel Sheet Successfull
+2022-11-18 23:07:27,568 - com.OHRMTestCases.AddEmployee -INFO - 14  -Row details entered successfull
+2022-11-18 23:07:31,754 - com.OHRMTestCases.AddEmployee -INFO - enter15row Data Successfully
+2022-11-18 23:07:33,910 - com.OHRMTestCases.AddEmployee -INFO - enter15row Data Successfully
+2022-11-18 23:07:36,072 - com.OHRMTestCases.AddEmployee -INFO - enter15row Data Successfully
+2022-11-18 23:07:36,125 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:07:38,423 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:07:38,471 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:07:38,512 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:07:38,537 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:07:38,537 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:07:38,545 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:07:38,545 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:07:38,545 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in15Row And send to excel Sheet Successfull
+2022-11-18 23:07:39,219 - com.OHRMTestCases.AddEmployee -INFO - 15  -Row details entered successfull
+2022-11-18 23:07:43,391 - com.OHRMTestCases.AddEmployee -INFO - enter16row Data Successfully
+2022-11-18 23:07:45,522 - com.OHRMTestCases.AddEmployee -INFO - enter16row Data Successfully
+2022-11-18 23:07:47,668 - com.OHRMTestCases.AddEmployee -INFO - enter16row Data Successfully
+2022-11-18 23:07:47,703 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:07:50,714 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:07:50,771 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:07:50,814 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:07:50,847 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:07:50,847 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:07:50,847 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:07:50,847 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:07:50,847 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in16Row And send to excel Sheet Successfull
+2022-11-18 23:07:51,642 - com.OHRMTestCases.AddEmployee -INFO - 16  -Row details entered successfull
+2022-11-18 23:07:55,818 - com.OHRMTestCases.AddEmployee -INFO - enter17row Data Successfully
+2022-11-18 23:07:57,959 - com.OHRMTestCases.AddEmployee -INFO - enter17row Data Successfully
+2022-11-18 23:08:00,135 - com.OHRMTestCases.AddEmployee -INFO - enter17row Data Successfully
+2022-11-18 23:08:00,189 - com.OHRMTestCases.AddEmployee -INFO - getting Employee Id in Runtime successfully
+2022-11-18 23:08:02,454 - com.OHRMTestCases.AddEmployee -INFO - getting actual firstName successfully
+2022-11-18 23:08:02,487 - com.OHRMTestCases.AddEmployee -INFO - getting actual middle successfully
+2022-11-18 23:08:02,527 - com.OHRMTestCases.AddEmployee -INFO - getting actual lastName successfully
+2022-11-18 23:08:02,559 - com.OHRMTestCases.AddEmployee -INFO - getting actual EmployeeId successfully
+2022-11-18 23:08:02,559 - com.OHRMTestCases.AddEmployee -INFO - expectedFirstName and ActualFirstName-Matched
+2022-11-18 23:08:02,559 - com.OHRMTestCases.AddEmployee -INFO - expectedMiddleName and ActualMiddleName-Matched
+2022-11-18 23:08:02,559 - com.OHRMTestCases.AddEmployee -INFO - expectedLastName and ActualLasrName-Matched
+2022-11-18 23:08:02,559 - com.OHRMTestCases.AddEmployee -INFO - Personal Details Validation Results- Matched-in17Row And send to excel Sheet Successfull
+2022-11-18 23:08:03,367 - com.OHRMTestCases.AddEmployee -INFO - 17  -Row details entered successfull

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9010" started-at="2022-11-25T10:49:36Z" finished-at="2022-11-25T10:49:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9010" started-at="2022-11-25T10:49:36Z" finished-at="2022-11-25T10:49:45Z">
+      <class name="com.OrangeHRM.LogInTest">
+        <test-method status="PASS" signature="orangeHRMApplicationLaunch()[pri:0, instance:com.OrangeHRM.LogInTest@2c8d66b2]" name="orangeHRMApplicationLaunch" is-config="true" duration-ms="4769" started-at="2022-11-25T16:19:36Z" finished-at="2022-11-25T16:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHRMApplicationLaunch -->
+        <test-method status="PASS" signature="logInTest()[pri:1, instance:com.OrangeHRM.LogInTest@2c8d66b2]" name="logInTest" duration-ms="2699" started-at="2022-11-25T16:19:40Z" finished-at="2022-11-25T16:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method status="PASS" signature="welComeAdminTest()[pri:2, instance:com.OrangeHRM.LogInTest@2c8d66b2]" name="welComeAdminTest" duration-ms="139" started-at="2022-11-25T16:19:43Z" finished-at="2022-11-25T16:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welComeAdminTest -->
+        <test-method status="PASS" signature="logOutTest()[pri:3, instance:com.OrangeHRM.LogInTest@2c8d66b2]" name="logOutTest" duration-ms="1261" started-at="2022-11-25T16:19:43Z" finished-at="2022-11-25T16:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutTest -->
+        <test-method status="PASS" signature="OrangeHRMApplicationClose()[pri:0, instance:com.OrangeHRM.LogInTest@2c8d66b2]" name="OrangeHRMApplicationClose" is-config="true" duration-ms="134" started-at="2022-11-25T16:19:45Z" finished-at="2022-11-25T16:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangeHRMApplicationClose -->
+      </class> <!-- com.OrangeHRM.LogInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

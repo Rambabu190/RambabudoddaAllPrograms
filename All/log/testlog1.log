@@ -1,0 +1,16 @@
+[main] INFO com.OrangeHRM.LogInTest - Chrome Browser Opened Successfully
+[main] INFO com.OrangeHRM.LogInTest - Naviagted to OrangeHRM Application Successfully
+[main] INFO com.OrangeHRM.LogInTest - Entered UserName Successfully
+[main] INFO com.OrangeHRM.LogInTest - Entered Password Successfully
+[main] INFO com.OrangeHRM.LogInTest - Clicked on LogIn Button Successfully
+[main] INFO com.OrangeHRM.LogInTest - Clicked on WelCome Admin link
+[main] INFO com.OrangeHRM.LogInTest - Successfully LogOut from the Application
+[main] INFO com.OrangeHRM.LogInTest - OrangeHRM Application Closed Successfully
+[main] INFO com.OrangeHRM.LogInTest - Chrome Browser Opened Successfully
+[main] INFO com.OrangeHRM.LogInTest - Naviagted to OrangeHRM Application Successfully
+[main] INFO com.OrangeHRM.LogInTest - Entered UserName Successfully
+[main] INFO com.OrangeHRM.LogInTest - Entered Password Successfully
+[main] INFO com.OrangeHRM.LogInTest - Clicked on LogIn Button Successfully
+[main] INFO com.OrangeHRM.LogInTest - Clicked on WelCome Admin link
+[main] INFO com.OrangeHRM.LogInTest - Successfully LogOut from the Application
+[main] INFO com.OrangeHRM.LogInTest - OrangeHRM Application Closed Successfully

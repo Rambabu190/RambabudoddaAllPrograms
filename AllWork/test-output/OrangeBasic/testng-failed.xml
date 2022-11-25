@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeBasic]">
+  <test name="OrangeBasicGrid">
+    <classes>
+      <class name="com.Grid.OrangeBasicGrid"/>
+    </classes>
+  </test> <!-- OrangeBasicGrid -->
+  <test name="OrangeBasicGrid(failed)">
+    <classes>
+      <class name="com.Grid.OrangeBasicGrid">
+        <methods>
+          <include name="login"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.Grid.OrangeBasicGrid -->
+    </classes>
+  </test> <!-- OrangeBasicGrid(failed) -->
+</suite> <!-- Failed suite [OrangeBasic] -->

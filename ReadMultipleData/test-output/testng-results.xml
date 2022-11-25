@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83103" started-at="2022-11-15T10:25:13Z" finished-at="2022-11-15T10:26:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83103" started-at="2022-11-15T10:25:13Z" finished-at="2022-11-15T10:26:36Z">
+      <class name="Orange.ReadMultipleData.ReadMultipleDataFromExcel">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Orange.ReadMultipleData.ReadMultipleDataFromExcel@d041cf]" name="setUp" is-config="true" duration-ms="6300" started-at="2022-11-15T15:55:13Z" finished-at="2022-11-15T15:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Orange.ReadMultipleData.ReadMultipleDataFromExcel@d041cf]" name="Login" duration-ms="76008" started-at="2022-11-15T15:55:19Z" finished-at="2022-11-15T15:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Orange.ReadMultipleData.ReadMultipleDataFromExcel@d041cf]" name="tearDown" is-config="true" duration-ms="776" started-at="2022-11-15T15:56:35Z" finished-at="2022-11-15T15:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Orange.ReadMultipleData.ReadMultipleDataFromExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

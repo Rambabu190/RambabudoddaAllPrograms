@@ -1,0 +1,8 @@
+
+<suite name="reddifInherit">
+	<test name="TestNGExample1">
+		<classes>
+			<class name="com.TestNG.reddifInherit"/>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,16 @@
+2022-11-10 11:07:14,940 - com.OrangeHRM.LogInTest -INFO - Chrome Browser Opened Successfully
+2022-11-10 11:07:15,621 - com.OrangeHRM.LogInTest -INFO - Naviagted to OrangeHRM Application Successfully
+2022-11-10 11:07:15,920 - com.OrangeHRM.LogInTest -INFO - Entered UserName Successfully
+2022-11-10 11:07:16,039 - com.OrangeHRM.LogInTest -INFO - Entered Password Successfully
+2022-11-10 11:07:18,577 - com.OrangeHRM.LogInTest -INFO - Clicked on LogIn Button Successfully
+2022-11-10 11:07:18,674 - com.OrangeHRM.LogInTest -INFO - Clicked on WelCome Admin link
+2022-11-10 11:07:19,934 - com.OrangeHRM.LogInTest -INFO - Successfully LogOut from the Application
+2022-11-10 11:07:36,160 - com.OrangeHRM.LogInTest -INFO - OrangeHRM Application Closed Successfully
+2022-11-10 13:21:19,280 - com.OrangeHRM.LogInTest -INFO - Chrome Browser Opened Successfully
+2022-11-10 13:21:20,362 - com.OrangeHRM.LogInTest -INFO - Naviagted to OrangeHRM Application Successfully
+2022-11-10 13:21:20,663 - com.OrangeHRM.LogInTest -INFO - Entered UserName Successfully
+2022-11-10 13:21:20,797 - com.OrangeHRM.LogInTest -INFO - Entered Password Successfully
+2022-11-10 13:21:23,003 - com.OrangeHRM.LogInTest -INFO - Clicked on LogIn Button Successfully
+2022-11-10 13:21:23,090 - com.OrangeHRM.LogInTest -INFO - Clicked on WelCome Admin link
+2022-11-10 13:21:24,427 - com.OrangeHRM.LogInTest -INFO - Successfully LogOut from the Application
+2022-11-10 13:21:40,637 - com.OrangeHRM.LogInTest -INFO - OrangeHRM Application Closed Successfully
